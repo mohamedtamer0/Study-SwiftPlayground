@@ -27,6 +27,7 @@ c <= 3
 
 var nameTest = "Mohamed Tamer"
 nameTest == "Mohamed TamEr"
+nameTest != "Mohamed TamEr"
 
 
 var stayOutTooLate: Bool = true
