@@ -31,3 +31,9 @@ if year == nil {
 }else {
     print("It was released in \(year!)")
 }
+
+
+print("-----------------")
+
+var name: String?
+var name2: String!
