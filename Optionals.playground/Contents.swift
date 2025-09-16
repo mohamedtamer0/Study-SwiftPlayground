@@ -37,3 +37,23 @@ print("-----------------")
 
 var name: String?
 var name2: String!
+
+
+
+print("-----------------")
+
+
+class Apartment {
+    var number: Int?
+}
+
+class Person {
+    var apartment: Apartment?
+}
+
+let person = Person()
+
+
+let apartmentNumber = person.apartment?.number
+
+print(apartmentNumber!)
