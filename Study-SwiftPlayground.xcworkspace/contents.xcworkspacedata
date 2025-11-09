@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Core array methods.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Swift arrays.playground">
+   </FileRef>
+   <FileRef
       location = "group:Booleans and logical operators.playground">
    </FileRef>
    <FileRef
