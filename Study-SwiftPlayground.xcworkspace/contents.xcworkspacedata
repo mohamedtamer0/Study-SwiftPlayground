@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Booleans and logical operators.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Type conversions.playground">
+   </FileRef>
+   <FileRef
       location = "group:Strings.playground">
    </FileRef>
    <FileRef
