@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Core dictionary methods.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Swift dictionaries.playground">
+   </FileRef>
+   <FileRef
       location = "group:Core array methods.playground">
    </FileRef>
    <FileRef
