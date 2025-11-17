@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:The if statement.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Swift tuples.playground">
+   </FileRef>
+   <FileRef
       location = "group:Core set methods.playground">
    </FileRef>
    <FileRef
