@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:While loops.playground">
+   </FileRef>
+   <FileRef
       location = "group:Using for-in loops.playground">
    </FileRef>
    <FileRef
