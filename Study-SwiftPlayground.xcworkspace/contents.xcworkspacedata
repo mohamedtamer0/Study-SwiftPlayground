@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:The guard statement.playground">
+   </FileRef>
+   <FileRef
+      location = "group:The switch statement.playground">
+   </FileRef>
+   <FileRef
       location = "group:While loops.playground">
    </FileRef>
    <FileRef
