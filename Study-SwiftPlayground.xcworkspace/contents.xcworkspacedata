@@ -2,6 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Type Aliasing.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Using Closures IRL.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Understanding closures.playground">
+   </FileRef>
+   <FileRef
       location = "group:Function types.playground">
    </FileRef>
    <FileRef
