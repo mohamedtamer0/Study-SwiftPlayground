@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Chaining optionals .playground">
+   </FileRef>
+   <FileRef
+      location = "group:Basic Swift structs  .playground">
+   </FileRef>
+   <FileRef
+      location = "group:Access modifiers and properties  .playground">
+   </FileRef>
+   <FileRef
+      location = "group:Basic Swift classes.playground">
+   </FileRef>
+   <FileRef
       location = "group:Type Aliasing.playground">
    </FileRef>
    <FileRef
