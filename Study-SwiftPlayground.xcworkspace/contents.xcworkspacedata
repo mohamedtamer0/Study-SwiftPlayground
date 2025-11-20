@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Handling errors.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Introducing protocols.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Raw and associated values.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Swift Enumerations.playground">
+   </FileRef>
+   <FileRef
       location = "group:Chaining optionals .playground">
    </FileRef>
    <FileRef
